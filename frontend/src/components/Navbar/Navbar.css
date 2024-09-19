@@ -99,7 +99,7 @@
   }
   
   .nav-profile-dropdown li:hover {
-    color: tomato;
+    color: rgb(215, 95, 74);
   }
   
   @media (max-width: 1050px) {
